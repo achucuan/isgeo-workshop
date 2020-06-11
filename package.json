@@ -1,0 +1,24 @@
+{
+  "name": "isgeo-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint *.js",
+    "lint:fix": "eslint --fix *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achucuan/isgeo-workshop.git"
+  },
+  "author": "geo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/achucuan/isgeo-workshop/issues"
+  },
+  "homepage": "https://github.com/achucuan/isgeo-workshop#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
