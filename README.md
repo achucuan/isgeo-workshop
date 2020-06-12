@@ -1,2 +1,2 @@
-# isgeo
-isGeo npm package
+# isChucuan
+isChucuan npm package
