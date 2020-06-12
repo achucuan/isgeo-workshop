@@ -3,3 +3,4 @@ function isGeo (input) {
 }
 
 module.exports = isGeo
+pow
