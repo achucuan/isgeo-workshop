@@ -1,5 +1,5 @@
 {
-  "name": "isgeo-workshop",
+  "name": "ischucuan-workshop",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achucuan/isgeo-workshop.git"
+    "url": "git+https://github.com/achucuan/ischucuan-workshop.git"
   },
   "author": "geo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/achucuan/isgeo-workshop/issues"
+    "url": "https://github.com/achucuan/ischucuan-workshop/issues"
   },
-  "homepage": "https://github.com/achucuan/isgeo-workshop#readme",
+  "homepage": "https://github.com/achucuan/ischucuan-workshop#readme",
   "devDependencies": {
     "eslint": "^7.2.0",
     "jest": "^26.0.1"

@@ -1,5 +1,5 @@
-function isGeo (input) {
-  return input === 'Geo'
+function isChucuan (input) {
+  return input === 'Chucuan'
 }
 
-module.exports = isGeo
+module.exports = isChucuan
